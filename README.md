@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/julienpicquet49" target="blank"><img src="https://img.shields.io/twitter/follow/julienpicquet49?logo=twitter&style=for-the-badge" alt="julienpicquet49" /></a> </p>
 
-- 🌱 Je suis actuellement entrain d'apprendre **React 18, Java, Spring, Unit Tests**
+- 🌱 Je suis actuellement entrain d'apprendre **C#, Ionic**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://julienpicquet.fr](https://julienpicquet.fr)
 
