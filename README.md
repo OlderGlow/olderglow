@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/julienpicquet49" target="blank"><img src="https://img.shields.io/twitter/follow/julienpicquet49?logo=twitter&style=for-the-badge" alt="julienpicquet49" /></a> </p>
 
-- 🌱 Je suis actuellement entrain d'apprendre **C#, Ionic**
-
-- 👨‍💻 Tous mes projets sont disponibles sur [https://julienpicquet.fr](https://julienpicquet.fr)
+- 🌱 Je suis actuellement entrain d'apprendre **EFCore, Angular 17**
 
 - 📫 Me contacter **julienpicquet1@gmail.com**
-
-- 📄 Voir mon CV [https://www.julienpicquet.fr/static/media/CV_Picquet.105248412d0bb1544be9.pdf](https://www.julienpicquet.fr/static/media/CV_Picquet.105248412d0bb1544be9.pdf)
 
 - ⚡ Fun fact **Je fais aussi de la musique sous le nom de Older Glow**
 
