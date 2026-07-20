@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/julienpicquet49" target="blank"><img src="https://img.shields.io/twitter/follow/julienpicquet49?logo=twitter&style=for-the-badge" alt="julienpicquet49" /></a> </p>
 
-- 🌱 Je suis actuellement entrain d'apprendre **.Net 9 & EFCore, Angular 18, NgRx/signal**
+- 🌱 Je suis actuellement entrain d'apprendre **.Net 10 & EFCore, Angular 22, NgRx/signal**
 
 - 📫 Me contacter **julienpicquet1@gmail.com**
 
