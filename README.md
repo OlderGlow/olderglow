@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis Julien Picquet</h1>
-<h3 align="center">Développeur d'application .Net 8 & Angular 18 chez Arpège</h3>
+<h3 align="center">Développeur d'application .Net 10 & Angular 22 chez Arpège</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olderglow&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="olderglow" /> </p>
 
